@@ -88,7 +88,7 @@ Thanks for stopping by! 😊
 #Churn by Gender
 ![Churn by Gender](https://github.com/mahnoorkhanofficial29-spec/Data-Analysis-Journey/blob/main/churn_rate_by_gender.png)
 #Churn by Age
-![Churn by Age]()
+![Churn by Age](https://github.com/mahnoorkhanofficial29-spec/Data-Analysis-Journey/blob/main/churn_rate%20_by_age.png)
 #Churn by Activity
 ![Churn by Activity]()
 
