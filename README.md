@@ -78,3 +78,20 @@ I'm currently learning data analytics through hands-on practice and projects.
 I'm still at the beginning of my journey, so this repository will grow as I learn new skills and work on more projects.
 
 Thanks for stopping by! 😊
+
+## 📸 Analysis Results
+
+### Overall Churn Rate
+![Overall Churn Rate](screenshots/overall_churn_rate.png)
+
+### Churn by Geography
+![Churn by Geography](screenshots/churn_rate_by_geography.png)
+
+### Churn by Gender
+![Churn by Gender](screenshots/churn_rate_by_gender.png)
+
+### Churn by Age
+![Churn by Age](screenshots/churn_rate_by_age.png)
+
+### Churn by Customer Activity
+![Churn by Activity](screenshots/churn_rate_by_activity.png)
