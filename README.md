@@ -81,9 +81,10 @@ Thanks for stopping by! 😊
 
 
  📸 Analysis Results
- OVERALL CHURN RATE
+# OVERALL CHURN RATE
 ![Overall Churn Rate](https://github.com/mahnoorkhanofficial29-spec/Data-Analysis-Journey/blob/main/overall_churn_rate.png)
-![Churn by Geography](screenshots/churn_rate_by_geography.png)
+#Churn by Geography
+![Churn by Geography](https://github.com/mahnoorkhanofficial29-spec/Data-Analysis-Journey/blob/main/churn_rate_by_geography.png)
 ![Churn by Gender](screenshots/churn_rate_by_gender.png)
 ![Churn by Age](screenshots/churn_rate_by_age.png)
 ![Churn by Activity](screenshots/churn_rate_by_activity.png)
