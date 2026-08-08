@@ -81,11 +81,9 @@ Thanks for stopping by! 😊
 
 
  📸 Analysis Results
- ![Overall Churn Rate](screenshots/overall_churn_rate.png)
+![Overall Churn Rate](screenshots/overall_churn_rate.png)
 ![Churn by Geography](screenshots/churn_rate_by_geography.png)
 ![Churn by Gender](screenshots/churn_rate_by_gender.png)
 ![Churn by Age](screenshots/churn_rate_by_age.png)
 ![Churn by Activity](screenshots/churn_rate_by_activity.png)
 
-### Churn by Customer Activity
-![Churn by Activity](screenshots/churn_rate_by%20_activity.png)
